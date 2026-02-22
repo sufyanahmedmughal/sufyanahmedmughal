@@ -24,16 +24,27 @@
 
 ## `whoami`
 
-```typescript
-const sufyan = {
-  name     : "Sufyan Ahmed",
-  role     : "Full Stack Developer & Automation Engineer",
-  location : "Pakistan 🇵🇰",
-  focus    : ["Web Apps", "Mobile Apps", "AI Automations"],
-  currently: "Building intelligent automation systems",
-  passion  : "Turning complex problems into clean, scalable solutions"
-};
-```
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>👋 Sufyan Ahmed</h3>
+      <p><b>Full Stack Developer &amp; Automation Engineer</b></p>
+      <p>
+        I build complete digital products — from sleek web &amp; mobile apps to intelligent AI automation systems. Whether it's a SaaS platform, a mobile app, or a voice AI agent, I take it from idea to deployment.
+      </p>
+      <p>📍 Pakistan &nbsp;&nbsp;|&nbsp;&nbsp; 🟢 <b>Available for Freelance</b></p>
+    </td>
+    <td width="45%" valign="top">
+      <table>
+        <tr><td>🌐</td><td><b>Web & Apps</b></td><td>React, Next.js, Node.js</td></tr>
+        <tr><td>📱</td><td><b>Mobile</b></td><td>React Native, Flutter</td></tr>
+        <tr><td>🤖</td><td><b>Automation</b></td><td>n8n, VAPI, Retell AI</td></tr>
+        <tr><td>🗄️</td><td><b>Database</b></td><td>MySQL, MongoDB, PostgreSQL</td></tr>
+        <tr><td>💬</td><td><b>Languages</b></td><td>Urdu, English</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -95,15 +106,15 @@ PROJECTS TEMPLATE — uncomment and fill when ready:
 ## `./services --what-I-build`
 
 ```
-┌─────────────────────────────────────────────────────┐
-│                                                       │
-│  🌐  Full Stack Web Apps   →  React, Next.js, Node   │
-│  📱  Mobile Apps           →  React Native, Expo     │
-│  🤖  AI Voice Agents       →  VAPI, Retell AI        │
-│  ⚡  Workflow Automation   →  n8n, Zapier, Make      │
-│  🔗  API Integrations      →  REST, GraphQL, WebSockets│
-│                                                       │
-└─────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│                                                        │
+│  🌐  Full Stack Web Apps   →  React, Next.js, Node    │
+│  📱  Mobile Apps           →  React Native, Flutter   │
+│  🤖  AI Voice Agents       →  VAPI, Retell AI         │
+│  ⚡  Workflow Automation   →  n8n, Zapier, Make       │
+│  🔗  API Integrations      →  REST, GraphQL, WebSocket│
+│                                                        │
+└──────────────────────────────────────────────────────┘
 ```
 
 ---
